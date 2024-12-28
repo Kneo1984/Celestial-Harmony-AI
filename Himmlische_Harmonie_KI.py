@@ -41,4 +41,4 @@ def main():
     print("Training abgeschlossen!")
 
 if __name__ == "__main__":
-    main(
+    main()
